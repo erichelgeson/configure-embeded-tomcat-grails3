@@ -58,3 +58,6 @@ assets {
     minifyJs = true
     minifyCss = true
 }
+
+
+ext['tomcat.version'] = '8.5.23'
